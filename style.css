@@ -1,0 +1,39 @@
+.heading
+
+{
+    width:80%;
+    font-size:22px;
+
+}
+
+body
+{
+    background-image: linear-gradient(to right, rgb(166, 0, 255),rgb(217, 0, 255),rgb(255, 0, 234),rgb(191, 66, 164),rgb(239, 142, 238),rgb(239, 187, 234),rgb(249, 205, 249));
+    color:black;
+}
+
+#camera
+{
+border:2px dotted black;
+width:350px;
+height:300px;
+
+}
+
+.name_of_objects
+{
+    color:Black;
+}
+
+#result_object_name
+{
+color:blueviolet;
+}
+
+#result_object_accuracy
+{
+    color:blueviolet;
+}
+
+
+
